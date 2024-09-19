@@ -1,8 +1,8 @@
-# Hello, I'm Ibrahim Alkhrashi! 👋
+# Hello, I'm Ibrahim! 👋
 
 Welcome to my GitHub profile!
 
-I'm Ibrahim Alkhrashi, a passionate high school student with a keen interest in technology, programming, and learning new things. This is my space on GitHub where I share my projects, experiments.
+I'm Ibrahim, a passionate high school student with a keen interest in technology, programming, and learning new things. This is my space on GitHub where I share my projects, experiments.
 ## About Me
 
 - 🎓 Currently a high school student
